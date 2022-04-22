@@ -1,0 +1,25 @@
+﻿  HWNDManager.cpp
+  RawInputDx.cpp
+  Wallpaper-player.cpp
+D:\CProject\Wallpaper-play\Wallpaper-play\cmdline.h(732,46): warning C4101: “e”: 未引用的局部变量
+D:\CProject\Wallpaper-play\Wallpaper-play\cmdline.h(727): message : 在编译 类 模板 成员函数“bool cmdline::parser::option_with_value<T>::set(const std::string &)”时
+          with
+          [
+              T=unsigned __int64
+          ]
+D:\CProject\Wallpaper-play\Wallpaper-play\cmdline.h(373): message : 查看对正在编译的 类 模板 实例化“cmdline::parser::option_with_value<T>”的引用
+          with
+          [
+              T=unsigned __int64
+          ]
+D:\CProject\Wallpaper-play\Wallpaper-play\Wallpaper-player.cpp(74): message : 查看对正在编译的函数 模板 实例化“const T &cmdline::parser::get<unsigned __int64>(const std::string &) const”的引用
+          with
+          [
+              T=unsigned __int64
+          ]
+  Window.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 502 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Wallpaper-play.vcxproj -> D:\CProject\Wallpaper-play\Release\Wallpaper-Player.exe
